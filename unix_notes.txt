@@ -1,0 +1,138 @@
+    1  pwd
+    2  cd pwd
+    3  pwd
+    4  cd/c
+    5  cd / c
+    6  pwd
+    7  ls
+    8  ls -t
+    9  ls
+   10  ls -l
+   11  ls -lt
+   12  ls -r
+   13  ls -rt
+   14  ls -lrt
+   15  man ls
+   16  ls -ls
+   17  ls -Q
+   18  ls -F
+   19  ls -F
+   20  ls -C
+   21  ls --author
+   22  ls --help
+   23  ls -m
+   24  ls -1
+   25  ls -L
+   26  ls -i
+   27  subl
+   28  curl -fsSL http://git.io/cWIXEw | sh
+   29  subl
+   30  cd /bin
+   31  ls
+   32  vim subl
+   33  subl
+   34  cd
+   35  cd /c
+   36  cd /
+   37  cd
+   38  ls -l
+   39  cd /
+   40  ls -l
+   41  pwd
+   42  cd doc
+   43  ls
+   44  ls -l
+   45  pwd
+   46  cd /
+   47  ls -l
+   48  cd / bin
+   49  cd /bin
+   50  ls -l
+   51  cd /vim
+   52  ls -l
+   53  cd /vim
+   54  cd /yacc
+   55  pwd
+   56  cd /
+   57  ls -l
+   58  cd /etc
+   59  ls -l
+   60  cd /...
+   61  cd .../
+   62  pwd
+   63  ls -l
+   64  cd ../
+   65  ls -l
+   66  cd /
+   67  ls -l
+   68  cd lib
+   69  ls -;
+   70  ls -l
+   71  cd engines
+   72  ls -l
+   73  cd ../
+   74  cd tk8.5
+   75  ls -l
+   76  cd images
+   77  ls -l
+   78  cd ../
+   79  cd demos
+   80  ls -l
+   81  cd images
+   82  ls -l
+   83  cd ../;ls
+   84  cd /
+   85  ls -l
+   86  cd /lib/tk8.5/demos
+   87  cd
+   88  ls -l
+   89  cd /pictures
+   90  cd /Pictures
+   91  cd /Links
+   92  pwd
+   93  cd /
+   94  pwd
+   95  ls ~
+   96  ls
+   97  ls /ssl
+   98  ls /ssl -l
+   99  ls -lp
+  100  -l ls
+  101  cd /cmd
+  102  ls -l
+  103  ls /share -l
+  104  ls -l /share
+  105  ls -l /share/bison
+  106  ls -l /share/bison/m4sugar
+  107  pwd
+  108  cd
+  109  history
+  110  history -t
+  111  history
+  112  history | less
+  113  history > moving_around.txt
+  114  pwd
+  115  cd /
+  116  history > moving_around.txt
+  117  ls -l /c
+  118  ls -l
+  119  subl moving_around.txt
+  120  subl
+  121  history
+  122  moving_around.txt
+  123  subl moving_around.txt
+  124  history > moving_around.txt
+  125  subl moving_around.txt
+  126  subl
+  127  subl
+  128  subl moving_around.txt
+  129  history > moving_around.txt
+  130  subl moving_around.txt 
+  131  rm moving_around.txt 
+  132  pwd
+  133  cd 
+  134  pwd
+  135  ls
+  136  mkdir git_workshop
+  137  cd git_workshop
+  138  history > moving_around.txt
