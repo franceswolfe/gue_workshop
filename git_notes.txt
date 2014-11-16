@@ -1,0 +1,72 @@
+  165  mkdir gue_workshop
+  166  git config --global user.name "Frances Wolfe"
+  167  git config --global email "frances.j.wolfe@gmail.com"
+  168  git config --global user.email "frances.j.wolfe@gmail.com"
+  169  mv moving_around.txt ./gue_workshop/
+  170  cd git_workshop/
+  171  mv moving_around.txt ./gue_workshop
+  172  mv gue_workshop/moving_around.txt ./gue_workshop/unix_notes.txt
+  173  cd /gue_workshop
+  174  cd ../
+  175  cd gue_workshop/
+  176  git_init
+  177  git init
+  178  git status
+  179  git add unix_notes.txt
+  180  git status
+  181  git status
+  182  git commit -m "adding unix notes, first draft"
+  183  git status
+  184  git log
+  185  ls -la
+  186  ls -a
+  187  ls
+  188  subl unix_notes.txt
+  189  git status
+  190  history | less
+  191  history > moving_around2.txt
+  192  subl moving_around2.txt 
+  193  git add unix_notes.txt
+  194  git status
+  195  git log
+  196  rm moving_around2.txt 
+  197  git status
+  198  git log
+  199  git status
+  200  git commit
+  201  add unix_notes.txt
+  202  git log
+  203  git status
+  204  git add unix_notes.txt
+  205  git commit -m "updated unix notes"
+  206  git log
+  207  git status
+  208  git log
+  209  ls -la
+  210  git commit -m "a few more changes"
+  211  git add unix_notes.txt
+  212  git commit -m "updated unix notes"
+  213  git status
+  214  git branch git-notes
+  215  git branch
+  216  git status
+  217  git status
+  218  git add unix_notes.txt
+  219  git commit -m "updated unix notes"
+  220  git log
+  221  git status
+  222  git branch
+  223  touch git_notes.txt
+  224  subl git_notes.txt 
+  225  git add git_notes.txt
+  226  git status
+  227  git commit -m "new file: git notes"
+  228  git log
+  229  git branch
+  230  git checkout git-notes 
+  231  history
+
+  #We made a new branch git-notes that separated from master.
+  #Then we uploaded our repositories to Git Hub.  
+  $git push -u origin master  #we pushed changes from our repository to Git Hub
+  
